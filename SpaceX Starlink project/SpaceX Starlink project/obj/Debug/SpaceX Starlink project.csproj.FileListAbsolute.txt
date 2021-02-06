@@ -1,0 +1,10 @@
+C:\Users\Mr.Semicolon\Desktop\cloud\SpaceX Starlink project\SpaceX Starlink project\bin\Debug\SpaceX Starlink project.exe.config
+C:\Users\Mr.Semicolon\Desktop\cloud\SpaceX Starlink project\SpaceX Starlink project\bin\Debug\SpaceX Starlink project.exe
+C:\Users\Mr.Semicolon\Desktop\cloud\SpaceX Starlink project\SpaceX Starlink project\bin\Debug\SpaceX Starlink project.pdb
+C:\Users\Mr.Semicolon\Desktop\cloud\SpaceX Starlink project\SpaceX Starlink project\obj\Debug\SpaceX Starlink project.csprojAssemblyReference.cache
+C:\Users\Mr.Semicolon\Desktop\cloud\SpaceX Starlink project\SpaceX Starlink project\obj\Debug\SpaceX_Starlink_project.SpaceX.resources
+C:\Users\Mr.Semicolon\Desktop\cloud\SpaceX Starlink project\SpaceX Starlink project\obj\Debug\SpaceX_Starlink_project.Properties.Resources.resources
+C:\Users\Mr.Semicolon\Desktop\cloud\SpaceX Starlink project\SpaceX Starlink project\obj\Debug\SpaceX Starlink project.csproj.GenerateResource.cache
+C:\Users\Mr.Semicolon\Desktop\cloud\SpaceX Starlink project\SpaceX Starlink project\obj\Debug\SpaceX Starlink project.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Semicolon\Desktop\cloud\SpaceX Starlink project\SpaceX Starlink project\obj\Debug\SpaceX Starlink project.exe
+C:\Users\Mr.Semicolon\Desktop\cloud\SpaceX Starlink project\SpaceX Starlink project\obj\Debug\SpaceX Starlink project.pdb
